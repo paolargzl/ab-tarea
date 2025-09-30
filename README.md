@@ -1,3 +1,3 @@
 # ab-tarea
 primer ejercicio 
-Hola hola Paola
+Hola Paola

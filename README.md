@@ -1,0 +1,2 @@
+# ab-tarea
+primer ejercicio 
